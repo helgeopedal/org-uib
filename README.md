@@ -1,2 +1,2 @@
-# org-uib
+# ORG-UIB
 Me testar og sjår kva med kan få til...
